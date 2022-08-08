@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
-import 'package:flutter/widgets.dart';
-import 'package:fluttertest/noti.dart';
+import 'noti.dart';
 import 'notification.dart';
 
 late final NotificationResponse notificationResponse;
